@@ -1,9 +1,9 @@
-
-
 # Plataforma de asistencia médica personalizada (PAMP)
 
+Final project for the Building AI course
 
 ## Summary
+
 La idea detrás de PAMP es abordar el problema de acceso limitado a la atención médica personalizada, así como la dificultad de mantener un seguimiento constante de la salud de las personas en la sociedad actual. El problema de acceso a la atención médica es común en diversas partes del mundo, y la falta de seguimiento adecuado puede llevar a un empeoramiento de las condiciones de salud y a la aparición de complicaciones evitables. Mi motivación personal para este proyecto proviene de la convicción de que la tecnología, en particular la inteligencia artificial, puede mejorar significativamente la atención médica y el bienestar general de las personas. Este tema es de gran importancia debido a su potencial para salvar vidas y mejorar la calidad de vida de las personas.
 
 # Datos y técnicas de IA:
